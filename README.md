@@ -1,1 +1,1 @@
-# reddit-clone-api
+# Reddit clone API
